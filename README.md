@@ -15,7 +15,7 @@ Installation
 To use this tool, you need to have Python installed on your system. This script does not require any external libraries.
 
 Clone the repository:
-git clone https://github.com/mihad077/mihad077-PRODIGY_CS_03
+git clone https://github.com/mihad077/mihad077-PRODIGY_CS_03.git
 
 Navigate to the project directory:
 cd Password-Complexity-Checker
